@@ -1,0 +1,42 @@
+Breaking Points
+
+An installation for Thomas Lock, with audio by Scanner.
+
+http://www.thomaslock.com/bp.html
+http://vimeo.com/13520299
+
+http://www.scannerdot.com/scanner.shtml
+
+watershedApp is compatible with of_preRelease_v0061_osxSL_FAT
+breakingPointsApp is compatible with of_preRelease_v0061_osxSL_FAT
+breakingPointsIIAPP is compatible with of_preRelease_v0062_osxSL_FAT
+
+http://openframeworks.cc
+http://openframeworks.cc/download
+
+Thanks to the whole OpenFrameworks community.
+
+Use watershedApp to generate new Watershed files. (Limited to 5 images)
+
+http://en.wikipedia.org/wiki/Watershed_%28image_processing%29
+
+Use breakingPointsApp to see the original installation. (Use imagery from Watershed App, no Audio)
+This has bugs to do with image loading over a long period.
+
+Use breakingPointsIIApp to see the second installation. (Use imagery from Watershed App, no Audio)
+This corrects the bugs in the original version.
+
+Thanks to:
+
+Golan Levin for support and advice.
+http://www.flong.com/
+
+Kyle McDonald for help with Watershed and sound-boarding.
+http://kylemcdonald.net/
+
+Addons:
+
+Uses ofxControlPanel by Theo Watson
+
+http://theowatson.com
+https://github.com/ofTheo/ofxControlPanel/
